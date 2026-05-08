@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/harsha3330/proglog/internal/server"
+	"github.com/harsha3330/ds-with-go/proglog/internal/server"
 )
 
 func main() {
